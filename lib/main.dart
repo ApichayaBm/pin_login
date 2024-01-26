@@ -233,7 +233,7 @@ class _PinInputState extends State<PinInput> {
                 ),
               ),
             ),
-            SizedBox(width: 16.0), //ค.ชิดกันระหว่างบล้อกต่อบล้อก
+            SizedBox(width: 16.0), //ความชิดกันระหว่างบล้อกต่อบล้อก
             SizedBox.square(
               child: Container(
                 width: 65.0,
